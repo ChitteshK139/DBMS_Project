@@ -1,6 +1,6 @@
 Hello Everyone! Welcome to PDMS World... In this project, you are going to explore the functionalities of pharmacists to monitor, control, and analyze the pharmaceutical store transactions.
 
-A pharmacy database management system is an essential database for the healthcare and pharmacy industry. 
+A pharmacy database management system (PDMS) is an essential database for the healthcare and pharmacy industry. 
 It maintains all the transaction records, medicine details, etc. to make pharmacist easy to work and provide service to customers/patients in an efficient and friendly manner.
 
 
